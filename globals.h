@@ -1,0 +1,54 @@
+
+#ifndef globals_h
+#define globals_h
+#include <iostream>
+using namespace std;
+
+// GLOBAL CONSTANTS FOR PLAYER:
+const int MAX_INITIAL_PLAYER_HITPOINTS = 20;
+const int MAX_INITIAL_PLAYER_STRENGTH = 2;
+const int MAX_INITIAL_PLAYER_DEXTERITY = 2;
+const int MAX_INITIAL_PLAYER_ARMOR = 2;
+const int INITIAL_PLAYER_SLEEP_TIME = 0;
+
+// GLOBAL CONSTANTS FOR MONSTERS:
+
+// DRAGONS
+const int DRAGON_STRENGTH = 4;
+const int DRAGON_DEXTERITY = 4;
+const int DRAGON_ARMOR = 4;
+
+// SNAKEWOMEN
+const int SNAKEWOMEN_STRENGTH = 2;
+const int SNAKEWOMEN_ARMOR = 3;
+const int SNAKEWOMEN_DEXTERITY = 3;
+
+// GOBLINS
+const int GOBLINS_STRENGTH = 3;
+const int GOBLINS_DEXTERITY = 1;
+const int GOBLINS_ARMOR = 1;
+
+// BOGEYMEN
+const int BOGEYMEN_ARMOR = 2;
+
+
+// GLOBAL CONSTANTS FOR OBJECTS:
+
+// WEAPONS
+const int MACE_DEXTERITY_BONUS = 0;
+const int MACE_STRENGTH_BONUS = 2;
+
+const int SHORTSWORD_DEXTERITY_BONUS = 0;
+const int SHORTSWORD_STRENGTH_BONUS = 2;
+
+const int LONGSWORD_DEXTERITY_BONUS = 2;
+const int LONGSWORD_STRENGTH_BONUS = 4;
+
+const int MAGICAXE_DEXTERITY_BONUS = 5;
+const int MAGICAXE_STRENGTH_BONUS = 5;
+
+const int MAGICFANGS_OF_SLEEP_DEXTERITY_BONUS = 3;
+const int MAGICFANGS_OF_SLEEP_STRENGTH_BONUS = 2;
+
+
+#endif /* globals_h */
