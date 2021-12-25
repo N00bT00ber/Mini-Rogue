@@ -7,29 +7,29 @@ Ready to play, Simply run the code!
 
 **Controls/Game Info**:
 
-'h' = Left
-'j' = Up
-'k' = Down
+'h' = Left,
+'j' = Up,
+'k' = Down,
 'l' = Right
 
-"i' = Check Inventory 
+"i' = Check Inventory, 
 'g' = Pick Item Up/Go up Stairs (hover on top of item and press 'g')
 
 
 **Characters**:
 
-'@' = You
-'G'= Goblin
-'S' = Snake Woman 
-'D' = Dragon (After Level 2)
-"B' - Bogeyman (After level 1) 
+'@' = You,
+'G'= Goblin,
+'S' = Snake Woman,
+'D' = Dragon (After Level 2),
+"B' = Bogeyman (After level 1) 
 
 
 **Objects**:
 
-'>' = Staircase
-')' = Weapon
-'?' = Scrolls 
+'>' = Staircase,
+')' = Weapon,
+'?' = Scrolls,
 '&' = Golden Idle
 
 **Scrolls:** Scroll of Improve Armor, Scroll of Teleportation, Scroll of Improve Armor, Scroll of Raises Strrength, Scroll of Enhance Health, Scroll of Enhance Dexterity 
