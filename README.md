@@ -1,5 +1,10 @@
 # Mini-Rogue
 Ready to play, Simply run the code!
+If you have issues go to Main.cpp, and type this in Main(): 
+
+***Game test(15);**
+**test.play();**
+**return 0;**
 
 **Description:** Fight your way up to the roof (Final Level) and grab the Golden Idle to win the game! There are 4 levels (Staircases), Snake Women, Bogeymen, Goblins, and Dragons trying to keep you from fulfilling your destiny-- but dont worry, there are scrolls and weapons to help you along the way, goodluck!
 
