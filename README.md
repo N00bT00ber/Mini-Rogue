@@ -13,7 +13,7 @@ Video Game rendition of the Mini Rogue board game. Fight your way through a dung
 
 
 
-**Controls/Game Info**:
+# Controls/Game Info:
 
 'h' = Left,
 'j' = Up,
@@ -24,7 +24,7 @@ Video Game rendition of the Mini Rogue board game. Fight your way through a dung
 'g' = Pick Item Up/Go up Stairs (hover on top of item and press 'g')
 
 
-**Characters**:
+# Characters:
 
 '@' = You,
 'G'= Goblin,
@@ -33,7 +33,7 @@ Video Game rendition of the Mini Rogue board game. Fight your way through a dung
 "B' = Bogeyman (After level 1) 
 
 
-**Objects**:
+# Objects
 
 '>' = Staircase,
 ')' = Weapon,
@@ -46,24 +46,24 @@ Video Game rendition of the Mini Rogue board game. Fight your way through a dung
 
 
 
-***OPENING SCREEN***:
+# OPENING SCREEN:
 
 '@' = Your Character
 <img width="1440" alt="Screen Shot 2021-12-24 at 10 44 36 PM" src="https://user-images.githubusercontent.com/55522995/147379253-b4e0833e-ea89-48f6-847e-27a8ea5570db.png">
 
-***Open Inventory***: 
+# Open Inventory: 
 
 ***Press 'i' to check inventory***:
 <img width="1440" alt="Screen Shot 2021-12-24 at 10 58 59 PM" src="https://user-images.githubusercontent.com/55522995/147379549-5f5ed8fd-59ca-407b-bd98-81a4c96ffb87.png">
 
-***Add items to inventory by hovering over them and pressing 'g'***:
+# add items to inventory by hovering over them and pressing 'g':
 
 <img width="1439" alt="Screen Shot 2021-12-24 at 10 59 28 PM" src="https://user-images.githubusercontent.com/55522995/147379559-992db7f3-b554-4195-a019-286bf9926dff.png">
 <img width="1440" alt="Screen Shot 2021-12-24 at 11 01 41 PM" src="https://user-images.githubusercontent.com/55522995/147379567-fdddcb4a-5657-4bd1-9804-627708cf7d3f.png">
 <img width="1439" alt="Screen Shot 2021-12-24 at 11 10 39 PM" src="https://user-images.githubusercontent.com/55522995/147379655-e53392e1-7780-4429-b181-54277b0257a8.png">
 <img width="1440" alt="Screen Shot 2021-12-24 at 11 11 38 PM" src="https://user-images.githubusercontent.com/55522995/147379664-40a10926-6dc4-4aae-8f2c-0a2e1007cdc0.png">
 
-***Use/Equip items by opening inventory and selecting Item***:
+# Use/Equip items by opening inventory and selecting Item:
 **Use Scrolls** to Teleport and increase Strength, Health, Armor, and Dexterity
 **Pickup Weapons** to fight the monsters! Each weapon has different strengths!
 
@@ -85,7 +85,7 @@ If enemies attack you, move in their direction to fight back!
 <img width="1440" alt="Screen Shot 2021-12-24 at 11 31 40 PM" src="https://user-images.githubusercontent.com/55522995/147380028-2b29a8cd-8bb5-4dc5-9d7f-72472f589f4f.png">
 
 
-**Make it to level 4 and Pick up the 'Golden Idle' to Win**!!!
+# Make it to level 4 and Pick up the 'Golden Idle' to Win !!!
 
 
 
