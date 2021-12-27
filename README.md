@@ -6,7 +6,9 @@ If you have issues go to Main.cpp, and type this in Main():
 **test.play();**
 **return 0;**
 
-**Description:** Fight your way up to the roof (Final Level) and grab the Golden Idle to win the game! There are 4 levels (Staircases), Snake Women, Bogeymen, Goblins, and Dragons trying to keep you from fulfilling your destiny-- but dont worry, there are scrolls and weapons to help you along the way, goodluck!
+**Description:** Video Game rendition of the Mini Rogue board game. Fight your way through a dungeon by collecting scrolls and weapons to battle monsters you encounter along the way. Climb the staircase to move on to the next level. Be careful, the levels get harder and the monsters become more dangerous as you progress. Win by making it to the final level (4) and picking-up the Golden Idle. 
+
+
 
 
 
